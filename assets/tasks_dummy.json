@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "Buy groceries",
+    "description": "Milk, eggs, bread, and fruits.",
+    "categoryId": "home",
+    "isCompleted": false,
+    "createdAt": "2025-12-01T10:00:00Z"
+  },
+  {
+    "id": "2",
+    "title": "Call Alice",
+    "description": "Discuss the project details and timeline.",
+    "categoryId": "work",
+    "isCompleted": false,
+    "createdAt": "2025-12-02T14:30:00Z"
+  },
+  {
+    "id": "3",
+    "title": "Read Flutter docs",
+    "description": "Review state management best practices.",
+    "categoryId": null,
+    "isCompleted": true,
+    "createdAt": "2025-11-20T09:15:00Z"
+  }
+]
